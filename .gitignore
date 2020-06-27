@@ -1,5 +1,6 @@
 # Huge concatenated csv file(s)
 saber_pro_tyt_2016_2019.csv
+data-final.csv
 
 # Visual Studio Code settings file
 .vscode/settings.json
