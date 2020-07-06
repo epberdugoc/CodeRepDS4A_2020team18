@@ -4,3 +4,6 @@ data-final.csv
 
 # Visual Studio Code settings file
 .vscode/settings.json
+
+#jupyter commands
+.ipynb_checkpoints/
